@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Srujan Mogaveera
 
-<!--
-**srujanmogaveera/srujanmogaveera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Passionate about Web Development and Programming
+- 🌱 Currently learning React.js and Full Stack Development
+- 🔍 Interested in Software Development and Open Source
+- 📍 Karnataka, India
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- React.js
+- Node.js
+- Data Structures & Algorithms
+
+## 📊 GitHub Stats
+
+![Srujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srujanmogaveera&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srujanmogaveera&layout=compact)
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/srujanmogaveera
+- LinkedIn: Add your LinkedIn profile here
+
+## ✨ Quote
+
+"Code, Learn, Build, Repeat."
